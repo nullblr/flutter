@@ -1,0 +1,15 @@
+nullMobileApp/android/
+nullMobileApp/APKs/
+nullMobileApp/assets/
+nullMobileApp/build/
+nullMobileApp/.dart_tool/
+nullMobileApp/.flutter-plugins
+nullMobileApp/.flutter-plugins-dependencies
+nullMobileApp/.idea/
+nullMobileApp/ios/
+nullMobileApp/.metadata
+nullMobileApp/nullMobileApp.iml
+nullMobileApp/.packages
+nullMobileApp/pubspec.lock
+nullMobileApp/test/
+nullMobileApp/web/
