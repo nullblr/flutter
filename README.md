@@ -101,3 +101,6 @@ As a mobile app developer, develop a simple Flutter app that accepts a user inpu
             child: Text('View Top Keywords'),
         ),
 
+## An Example - "null" Android App
+
+Follow the steps mentioned  [here](nullMobileApp/README.md) to see how easily we can create a Flutter project and load an entire website inside the webview of an Android app. 

@@ -1,16 +1,12 @@
-# "null" Mobile App
+# "null" Android App
 
 A Flutter project for null community.
 
 1. `flutter create nullMobileApp`
 2. `flutter devices`
 3. `flutter run`
-4. Edit `/lib/main.dart`
-5. In `pubspec.yaml` file, add following dependencies
-
-        http: ^0.12.2
-        url_launcher: ^5.2.5
-
+4. Edit `/lib/main.dart`. Refer [this](nullMobileApp/lib/main.dart)
+5. Add dependencies in `pubspec.yaml` file. Refer [this](nullMobileApp/pubspec.yaml)
 6. Generate flutter app icons by following the instructions [here](https://www.digitalocean.com/community/tutorials/flutter-app-icons)
 7. Create a keystore
    
